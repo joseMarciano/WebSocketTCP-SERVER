@@ -11,6 +11,7 @@
 
 ### :computer: Requisitos de software para rodar o projeto
 <img src="https://img.shields.io/static/v1?label=ESP-IDF&message=V2.3&color=007ACC&style=for-the-badge"/>
+
 <img src="https://img.shields.io/static/v1?label=VS Code&message=PlatformIO Extension&color=007ACC&style=for-the-badge&logo=Visual Studio Code"/>
 
 ### :electric_plug: Requisitos de hardware para rodar o projeto
