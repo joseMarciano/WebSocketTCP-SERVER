@@ -12,7 +12,7 @@
 ### :computer: Requisitos de software para rodar o projeto
 <img src="https://img.shields.io/static/v1?label=ESP-IDF&message=V2.3&color=007ACC&style=for-the-badge"/>
 
-<img src="https://img.shields.io/static/v1?label=VS Code&message=PlatformIO Extension&color=007ACC&style=for-the-badge&logo=Visual Studio Code"/>
+<img src="https://img.shields.io/static/v1?label=VS Code&message=PlatformIO Extension&color=007ACC&style=for-the-badge"/>
 
 ### :electric_plug: Requisitos de hardware para rodar o projeto
 - [Wemos ESP32 LoLin](https://diyprojects.io/media/2018/01/xwemos-lolin32-oled-ssd1306-face-to-face-aliexpress.jpg.pagespeed.ic.zh-bR05Y9m.jpg)
