@@ -1,6 +1,6 @@
 # :bookmark_tabs: Socket TCP Server: Disponibilizando informações de leituras de sensores
 ## :rocket: IoT Aplicada
-#### - Orientador: Vagner Rodrigues >> https://github.com/vagner-rodrigues 
+#### - Orientador: [Vagner Rodrigues](https://github.com/vagner-rodrigues) 
 
 ### :dart: Objetivos do projeto
 1. Aprender como configurar o ESP32 como um Socket TCP Server.
